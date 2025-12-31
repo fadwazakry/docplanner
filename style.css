@@ -1,0 +1,24 @@
+header{
+       display: flex;
+       justify-content: space-around;
+
+}
+
+ul{ 
+       display: flex;
+       justify-content: center;
+       color: gray;
+       gap: 20px;
+       
+
+}
+
+a{
+text-decoration: none;
+
+}
+.me{
+    color: rgb(70, 170, 86);
+}
+
+
